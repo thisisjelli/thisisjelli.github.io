@@ -1,15 +1,25 @@
 ---
 layout: page
-title: About
+title: About Project
 permalink: /about/
 ---
 
-Some information about you!
+### Audience
 
-### More Information
+My audience includes:
+* Students
+  * High School
+  * College
 
-A place to include any other types of information that you'd like to include about yourself.
+* WWII scholars
+* People interested in WWII
 
-### Contact me
+### Methods
+* Mapping
+* **Network** Analysis
+* Timelines
+* **Human** connections 
 
-[email@domain.com](mailto:email@domain.com)
+## Scope 
+* Five female spies who worked for the OSS or OSE and the activities involved in.
+
